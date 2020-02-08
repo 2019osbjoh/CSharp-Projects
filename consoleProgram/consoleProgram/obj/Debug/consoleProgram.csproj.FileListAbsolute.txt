@@ -1,5 +1,0 @@
-/Users/John_Osborne/Documents/dev/csharp-projects/consoleProgram/consoleProgram/bin/Debug/consoleProgram.exe
-/Users/John_Osborne/Documents/dev/csharp-projects/consoleProgram/consoleProgram/bin/Debug/consoleProgram.pdb
-/Users/John_Osborne/Documents/dev/csharp-projects/consoleProgram/consoleProgram/obj/Debug/consoleProgram.csprojAssemblyReference.cache
-/Users/John_Osborne/Documents/dev/csharp-projects/consoleProgram/consoleProgram/obj/Debug/consoleProgram.exe
-/Users/John_Osborne/Documents/dev/csharp-projects/consoleProgram/consoleProgram/obj/Debug/consoleProgram.pdb
